@@ -5,7 +5,7 @@ info:
 paths:
   /v1/users/logout:
     post:
-      summary: Log out a user
+      summary: Log out a user from the system.
       responses:
         '200':
           description: User logged out successfully.
